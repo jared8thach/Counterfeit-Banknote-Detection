@@ -2,7 +2,7 @@
 title: "Counterfeit Bank Note Detection"
 author: "Jared Thach"
 date: "3/17/2021"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 # Synopsis:
