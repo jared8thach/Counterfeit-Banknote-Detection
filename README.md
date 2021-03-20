@@ -13,7 +13,7 @@ In this project, we will attempt to predict/detect counterfeit Swiss 1000-franc 
 However before doing so, we will explore our data with scatterplots, level plots, and boxplots and then proceed to prepare our data for cross-fold validation. At the end, we will evaluate our models' performances across all folds.
 
 #### Conclusion
-Overall, our several models yielded similar results in terms of validation accuracies, only varying between 95% and 100% across folds and across methodologies. Our baseline LDA model appears to perform the best across all folds; it has the **highest accuracy of $\approx$ 100%** and does not require additional computation and data manipulation as with factor analysis. By adopting this final model which strictly uses linear discriminant analysis, we are able to successfully **predict/detect counterfeit Swiss 1000-franc bank notes at an accuracy rate between 95% and 100%**.
+Overall, our several models yielded similar results in terms of validation accuracies, only varying between 95% and 100% across folds and across methodologies. Our baseline LDA model appears to perform the best across all folds; it has the **highest accuracy of approximately 100%** and does not require additional computation and data manipulation as with factor analysis. By adopting this final model which strictly uses linear discriminant analysis, we are able to successfully **predict/detect counterfeit Swiss 1000-franc bank notes at an accuracy rate between 95% and 100%**.
  
 #### Methods Used
 - Data Visualization
