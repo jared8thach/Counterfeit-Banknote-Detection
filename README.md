@@ -27,4 +27,4 @@ Overall, our several models yielded similar results in terms of validation accur
 
 #### Contributors
 - Jared Thach - github/jared8thach
-- “Multivariate Statistics: A practical approach”, by Bernhard Flury and Hans Riedwyl, Chapman and Hall, 1988.
+- Dataset from “Multivariate Statistics: A practical approach”, by Bernhard Flury and Hans Riedwyl, Chapman and Hall, 1988.
