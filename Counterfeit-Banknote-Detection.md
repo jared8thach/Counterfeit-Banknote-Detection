@@ -45,13 +45,13 @@ rate between 95% and 100%**.
 
 #### Technologies
 
-  - R Programming
+  - R programming
 
 #### Contributors
 
   - Jared Thach - github/jared8thach
-  - “Multivariate Statistics: A practical approach”, by Bernhard Flury
-    and Hans Riedwyl, Chapman and Hall, 1988.
+  - Dataset from “Multivariate Statistics: A practical approach”, by
+    Bernhard Flury and Hans Riedwyl, Chapman and Hall, 1988.
 
 -----
 
@@ -86,7 +86,7 @@ rate between 95% and 100%**.
 # 1\) <a id='Sec 1'>Importing Libraries and Dataset</a>
 
 ``` r
-sbn = read.csv('SBN.txt', sep='')
+sbn = read.csv('data/SBN.txt', sep='')
 head(sbn)
 ```
 
