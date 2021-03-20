@@ -3,7 +3,7 @@
 # Synopsis:
 
 #### Introduction and Objective
-In this project, we will attempt to predict/detect counterfeit Swiss 1000-franc bank notes using a variety of methods, such as Linear Discriminant Analysis, Logistic Regression, and Factor Analysis, and select the best performing model for final prediction/detection. Our models will be the following:
+In this project, we will attempt to predict/detect counterfeit Swiss 1000-franc bank notes using a variety of methods, such as Linear Discriminant Analysis, Logistic Regression, and Factor Analysis, and then select the best performing model for final prediction/detection. Our models will be the following:
 
 - Linear discriminant analysis (LDA)
 - Logistic regression
@@ -27,4 +27,4 @@ Overall, our several models yielded similar results in terms of validation accur
 
 #### Contributors
 - Jared Thach - github/jared8thach
-- “Multivariate Statistics: A practical approach”, by Bernhard Flury and Hans Riedwyl, Chapman and Hall, 1988.
+- Dataset from “Multivariate Statistics: A practical approach”, by Bernhard Flury and Hans Riedwyl, Chapman and Hall, 1988.
